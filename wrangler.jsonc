@@ -1,8 +1,8 @@
 {
-  "name": "my-vue-app",
-  "compatibility_date": "2025-10-13",
-  "assets": {
-    "directory": "./dist",
-    "browser_ttl": 86400
+  "name": "home",   名称：my-vue-app
+  "compatibility_date": "2025-10-13","兼容性日期": "2025-10-13
+  "assets": {   “资产”:{
+    "directory": "./dist",   "目录": "./dist
+    "browser_ttl": 86400   "浏览器超时时间": 8640
   }
 }
