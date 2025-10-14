@@ -1,26 +1,29 @@
-  {
-    "icon": "Cloud",
-    "name"   “名称”: "网盘(未来)",
-    "link": "https://pan.002397.xyz/"
+[
+{
+       “图标”:“云”,"icon"   “图标”: "Cloud"   “云”,
+    "name"   “名称”   “名称”: "网盘(未来)",
+    链接：https://pan.002397.xyz/"link"   “链接”: "https://pan.002397.xyz/"
   },
   {
-    "icon": "CompactDisc",
-    "name"   “名称”: "IPTV源（未来）",
-    "link": "https://iptv.002397.xyz/"
+       "图标": "光盘"icon": "CompactDisc",
+    "name"   “名称”   “名称”: "IPTV源（未来）",
+    "link"   “链接”: "https://iptv.002397.xyz/"
   },
   {
-    "icon": "Compass",
-    "name"   “名称”: "起始页",
-    "link": "https://nav.imsyy.top/"
+       “图标”:“指南针”,"icon"   “图标”: "Compass"   “指南针”,
+    "name"   “名称”   “名称”: "起始页",
+    链接：https:/
+av.imsyy.top/"link"   “链接”: "https://nav.imsyy.top/"   "https:/
+av.imsyy.top/"
   },
   {
-    "icon": "Fire",
-    "name"   “名称”: "今日热榜",
-    "link": "https://hot.imsyy.top/"
+       “图标”:“火”,"icon"   “图标”: "Fire"   “火”,
+    "name"   “名称”   “名称”: "今日热榜",
+    链接：https://hot.imsyy.top/"link"   “链接”: "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name"   “名称”: "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon"   “图标”: "LaptopCode",
+    "name"   “名称”   “名称”: "站点监测",
+    链接：https://status.imsyy.top/"link"   “链接”: "https://status.imsyy.top/"
   }
 ]
