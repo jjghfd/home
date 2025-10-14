@@ -1,12 +1,12 @@
 [
   {
     "icon": "Cloud",
-    "name": "网盘(未来)",
+    "name": "网盘(服务来源未来)",
     "link": "https://pan.002397.xyz/"
   },
   {
     "icon": "CompactDisc",
-    "name": "IPTV源（未来）",
+    "name": "IPTV源（服务来源未来）",
     "link": "https://iptv.002397.xyz/"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "今日热榜(服务来源未来)",
+    "link": "https://trending.002397.xyz/#/"
   },
   {
     "icon": "LaptopCode",
