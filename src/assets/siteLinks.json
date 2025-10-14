@@ -1,12 +1,12 @@
 [
   {
     "icon": "Cloud",
-    "name": "网盘(服务来源未来)",
+    "name": "网盘(未来)",
     "link": "https://pan.002397.xyz/"
   },
   {
     "icon": "CompactDisc",
-    "name": "IPTV源（服务来源未来）",
+    "name": "IPTV源（未来）",
     "link": "https://iptv.002397.xyz/"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "icon": "Fire",
-    "name": "今日热榜(服务来源未来)",
+    "name": "今日热榜(未来)",
     "link": "https://trending.002397.xyz/#/"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "icon": "Compass",
-    "name": "Open WebUI（服务来源未来）",
+    "name": "Open WebUI（未来）",
     "link": "https://chat.002397.xyz/"
   }
 ]
