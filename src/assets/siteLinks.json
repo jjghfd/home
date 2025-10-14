@@ -23,5 +23,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
+  },
+  {
+    "icon": "Compass",
+    "name": "Open WebUI（服务来源未来）",
+    "link": "https://chat.002397.xyz/"
   }
 ]
